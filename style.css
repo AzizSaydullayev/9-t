@@ -1,0 +1,185 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.v1{
+    width: 100%;
+    height: auto;   
+}
+.container{
+position: relative;
+}
+.row{
+position: absolute;
+top: -180px;
+}
+ul{
+display: flex;
+list-style-type: none;
+gap: 40px;
+}
+a{
+text-decoration: none;
+color: white;
+font-family: Arial;
+font-size: 15px;
+font-weight: 400;
+line-height: 19.6px;
+}
+.box{
+position: relative;
+padding-left: 300px;
+padding-right: 300px;
+}
+.row2{
+position: absolute;
+top: 10px;
+display: flex;
+align-items: center;
+}
+.i1{
+width: 100px;
+}
+.a1{
+margin-left: 100px;
+}
+.row3{
+position: absolute;
+top: 400px;
+padding-left: 310px;
+}
+.box2{
+position: relative;
+}
+.x1,.x2{
+color: white;
+margin-bottom: 10px;
+}
+.b1{
+background-color: rgba(255, 255, 255, 0);
+border: 1px solid white;
+color: white;
+padding: 15px 30px;
+cursor: pointer;
+}
+.v2{
+width: 100%;
+height: 1200px;
+}
+.container2{
+position: relative;
+}
+.row4{
+position: absolute;
+top: 502px;
+}
+.box3{
+position: relative;
+padding-left: 310px;
+}
+.row5{
+position: absolute;
+top: 1200px;
+}
+.container3{
+position: relative;
+}
+.row6{
+position: absolute;
+top: 1300px;
+}
+.v3{
+width: 100%;
+height: 1200px;
+}
+.b1{
+cursor: pointer;
+}
+.box4{
+position: relative;
+padding-left: 310px;
+}
+.row7{
+position: absolute;
+top: 2000px;
+}
+.container4{
+position: relative;
+}
+.row8{
+position: absolute;
+top: 2100px;
+}
+.v4{
+width: 100%;
+height: 1200px;
+}
+.box5{
+position: relative;
+padding-left: 310px;
+}
+.row9{
+position: absolute;
+top: 2800px;
+}
+.container5{
+position: relative;
+}
+.row10{
+position: absolute;
+top: 2953px;
+}
+.v5{
+width: 100%;
+height: 1200px;
+}
+.box6{
+position: relative;
+padding-left: 310px;
+}
+.row11{
+position: absolute;
+top: 3700px;
+}
+.container6{
+position: relative;
+}
+.row12{
+position: absolute;
+top: 3800px;
+}
+.v6{
+width: 100%;
+height: 1200px;
+}
+.box7{
+position: relative;
+padding-left: 310px;
+}
+.row13{
+position: absolute;
+top: 4500px;
+}
+footer{
+background-color: black;
+}
+.row14{
+display: flex;
+position: absolute;
+top: 4900px;
+gap: 40px;
+}
+.x3,.x4,.x5{
+color: white;
+font-size: 20px;
+}
+.container7{
+position: relative;
+}
+body{
+background-color: black;
+}
+.x3{
+margin-left: 490px;
+}
